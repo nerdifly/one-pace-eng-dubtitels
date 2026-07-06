@@ -8,13 +8,44 @@ This project aims to generate and manually verify English dub subtitles for epis
 
 ### Season Status
 
-| Season | Status | Progress |
-|--------|--------|----------|
-| Season 1 | 🚧 In Progress | 0% |
-| Season 2 | ⏳ Planned | 0% |
-| Season 3 | ⏳ Planned | 0% |
-| Season 4 | ⏳ Planned | 0% |
-| Season 5 | ⏳ Planned | 0% |
+| Season | Arc Name | Status | Progress | Notes |
+|--------|----------|--------|----------|-------|
+| Season 1 | Romance Dawn | ✅ Complete | 100% | Official subtitles already distributed with One Pace release |
+| Season 2 | Orange Town | ⏳ Planned | 0% | |
+| Season 3 | Syrup Village | ⏳ Planned | 0% | |
+| Season 4 | Gaimon | ⏳ Planned | 0% | |
+| Season 5 | Baratie | ⏳ Planned | 0% | |
+| Season 6 | Arlong Park | ⏳ Planned | 0% | |
+| Season 7 | The Adventures of Buggy's Crew | ⏳ Planned | 0% | |
+| Season 8 | Loguetown | ⏳ Planned | 0% | |
+| Season 9 | Reverse Mountain | ⏳ Planned | 0% | |
+| Season 10 | Whisky Peak (TBR) | ⏳ Planned | 0% | |
+| Season 11 | The Trials of Koby-Meppo | ⏳ Planned | 0% | |
+| Season 12 | Little Garden | ⏳ Planned | 0% | |
+| Season 13 | Drum Island | ⏳ Planned | 0% | |
+| Season 14 | Alabasta | ⏳ Planned | 0% | |
+| Season 15 | Jaya | ⏳ Planned | 0% | |
+| Season 16 | Skypiea | ⏳ Planned | 0% | |
+| Season 17 | Long Ring Long Land | ⏳ Planned | 0% | |
+| Season 18 | Water Seven | ⏳ Planned | 0% | |
+| Season 19 | Enies Lobby | ⏳ Planned | 0% | |
+| Season 20 | Post-Enies Lobby | ⏳ Planned | 0% | |
+| Season 21 | Thriller Bark | ⏳ Planned | 0% | |
+| Season 22 | Sabaody Archipelago | ⏳ Planned | 0% | |
+| Season 23 | Amazon Lily | ⏳ Planned | 0% | |
+| Season 24 | Impel Down | ⏳ Planned | 0% | |
+| Season 25 | The Adventures of the Straw Hats | ⏳ Planned | 0% | |
+| Season 26 | Marineford | ⏳ Planned | 0% | |
+| Season 27 | Post-War | ⏳ Planned | 0% | |
+| Season 28 | Return to Sabaody | ⏳ Planned | 0% | |
+| Season 29 | Fishman Island | ⏳ Planned | 0% | |
+| Season 30 | Punk Hazard | ⏳ Planned | 0% | |
+| Season 31 | Dressrosa | ⏳ Planned | 0% | |
+| Season 32 | Zou | ⏳ Planned | 0% | |
+| Season 33 | Whole Cake Island | ⏳ Planned | 0% | |
+| Season 34 | Reverie | ⏳ Planned | 0% | |
+| Season 35 | Wano | ⏳ Planned | 0% | |
+| Season 36 | Egghead | ⏳ Planned | 0% | |
 
 ## Tools & Methods
 
@@ -43,7 +74,7 @@ Found an issue? Help improve the subtitles!
 
 ## Disclaimer
 
-**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-made effort to improve subtitle availability.
+**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-created resource.
 
 ## License
 
