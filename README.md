@@ -11,8 +11,8 @@ This project aims to generate and manually verify English dub subtitles for epis
 | Season | Arc Name | Status | Progress | Notes |
 |--------|----------|--------|----------|-------|
 | Season 1 | Romance Dawn | ✅ Complete | 100% | Official subtitles already distributed with One Pace release |
-| Season 2 | Orange Town | 🚧 Work in Progress| 0% | |
-| Season 3 | Syrup Village | ⏳ Planned | 0% | |
+| Season 2 | Orange Town | ⏳ Planned | 0% | TBD on later date|
+| Season 3 | Syrup Village | 🚧 Wip| 0% | |
 | Season 4 | Gaimon | ⏳ Planned | 0% | |
 | Season 5 | Baratie | ⏳ Planned | 0% | |
 | Season 6 | Arlong Park | ⏳ Planned | 0% | |
