@@ -4,7 +4,17 @@ A work-in-progress project to create missing English dub subtitles for [One Pace
 
 ## Overview
 
-This project aims to generate and manually verify English dub subtitles for episodes that are missing them. Subtitles are created using automated speech recognition and then refined through manual review for accuracy.
+This project aims to generate and manually verify English dub subtitles for episodes that are missing them. Subtitles are created using automated speech recognition and then refined through manual review.
+
+### Season Status
+
+| Season | Status | Progress |
+|--------|--------|----------|
+| Season 1 | 🚧 In Progress | 0% |
+| Season 2 | ⏳ Planned | 0% |
+| Season 3 | ⏳ Planned | 0% |
+| Season 4 | ⏳ Planned | 0% |
+| Season 5 | ⏳ Planned | 0% |
 
 ## Tools & Methods
 
@@ -33,7 +43,7 @@ Found an issue? Help improve the subtitles!
 
 ## Disclaimer
 
-**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-made effort to provide subtitles for personal use only. While the subtitle files themselves are released under CC0, the underlying One Piece content cannot be used commercially without permission from the copyright holders.
+**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-made effort to improve subtitle availability.
 
 ## License
 
