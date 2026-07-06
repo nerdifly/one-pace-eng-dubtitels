@@ -31,6 +31,10 @@ Found an issue? Help improve the subtitles!
 - 🐛 **Report Issues** - Create an issue to report timing problems or inaccuracies
 - 🔧 **Submit Pull Requests** - Submit corrections or improvements directly
 
+## Disclaimer
+
+**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-made effort to provide subtitles for personal use only. While the subtitle files themselves are released under CC0, the underlying One Piece content cannot be used commercially without permission from the copyright holders.
+
 ## License
 
 This project is released under the [CC0 1.0 Universal](LICENSE) license, dedicating the work to the public domain.
