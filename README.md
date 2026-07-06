@@ -19,7 +19,7 @@ This project aims to generate and manually verify English dub subtitles for epis
 | The Adventures of Buggy's Crew | ⏳ Planned | 0% | |
 | Loguetown | ⏳ Planned | 0% | |
 | Reverse Mountain | ⏳ Planned | 0% | |
-| Whisky Peak (TBR) | ⏳ Planned | 0% | |
+| Whisky Peak | ⏳ Planned | 0% | |
 | The Trials of Koby-Meppo | ⏳ Planned | 0% | |
 | Little Garden | ⏳ Planned | 0% | |
 | Drum Island | ⏳ Planned | 0% | |
@@ -74,7 +74,7 @@ Found an issue? Help improve the subtitles!
 
 ## Disclaimer
 
-**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-[...]
+**This project is not affiliated with One Piece or One Pace.** All rights to the text and audio content are reserved by the original creators and copyright holders of One Piece. This project is a fan-created resource.
 
 ## License
 
